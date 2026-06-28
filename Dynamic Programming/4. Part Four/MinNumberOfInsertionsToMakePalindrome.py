@@ -1,0 +1,1 @@
+# Naga it's just len(s) - longest palindromic subsequence that's it
